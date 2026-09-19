@@ -8,7 +8,6 @@ config_version=5
 config/name="Idle RPG"
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.2")
-config/icon="res://icon.svg"
 
 [display]
 
