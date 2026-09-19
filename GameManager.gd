@@ -1,7 +1,7 @@
 extends Control
 
-const Player = preload("res://scripts/Player.gd")
-const Enemy = preload("res://scripts/Enemy.gd")
+const Player = preload("res://Player.gd")
+const Enemy = preload("res://Enemy.gd")
 
 var player: Player
 var current_enemy: Enemy
